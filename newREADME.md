@@ -7,22 +7,23 @@
  *Contributors 
  *Tests 
  *User 
-,
+
  ##Project Title: 
-,asad;kljggsdlkfjg,
+Project Title
  ##Description: 
-,kljsdflk'jas;d,
+description
  ##Installation: 
-,ksljdjjgfl;ksjdf;gl,
+Install here!
  ##Usage: 
-,kl;asjdflk;ja;lskdf,
+School
  ##DLisence: 
-,ksdjhl'jks;dlkfgj,
+None
  ##Contributors: 
-,kljas;ldkjf;aslk,
+Me
  ##Tests: 
-,lk;jsdl;kfjg;sldkfjg,
+None
  ##Email: 
-,;lkajdsl;kfjaslkdjfl;aksjdf;a
+cristian634@comcast.net
 Cristian Robinson
 ![Profile pic](https://avatars3.githubusercontent.com/u/56734416?v=4)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)

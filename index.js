@@ -87,7 +87,7 @@ inquirer.prompt([
         let inputData = [toc, "\n ##Project Title: \n", response.projectTitle, "\n ##Description: \n", response.projectDescription, "\n ##Installation: \n", response.projectInstal, "\n ##Usage: \n", response.projectUsage, "\n ##DLisence: \n", response.projectLisence, "\n ##Contributors: \n", response.projectContributors, "\n ##Tests: \n", response.projectTests, "\n ##Email: \n",response.projectEmail]
 
         // let inputData = [toc, projectTitle, projectDescription, projectInstal, projectUsage, projectLisence, projectContributors, projectTests, projectEmail]
-        fs.writeFile("newREADME.md", inputData + "\n" + userName + "\n" + thumbNail + "\n" + badge + "\n", function (err) {
+        fs.writeFile("newREADME.md", inputData.join("") + "\n" + userName + "\n" + thumbNail + "\n" + badge + "\n", function (err) {
             if (err) throw err
             // console.log("Project Title: " + projectTitle)
             console.log("File Saved");
