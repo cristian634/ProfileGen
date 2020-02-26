@@ -1,1 +1,1 @@
-![Profile pic](https://avatars3.githubusercontent.com/u/56734416?v=4)
+This application will help the user create a readme profile for thier projects through user prompts and Githbub API calls
